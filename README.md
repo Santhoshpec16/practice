@@ -7,3 +7,11 @@ My first Git repository on Ubuntu.
 - Understand Git
 - Learn GitHub
 - Master version control
+
+## Developer
+
+Developed by Santhosh.
+
+## Current Status
+
+Learning Git and GitHub.
