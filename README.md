@@ -16,4 +16,4 @@ Developed by Santhosh.
 
 Learning Git and GitHub.
 
-Project Status: Stable Version
+Project Status: Stable Version - development merge completed
