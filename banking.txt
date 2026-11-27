@@ -9,5 +9,5 @@ Features:
 
 TRANSACTION MODULE
 
-1. Transaction History
-2. View Recent Transactions
+1. Transaction Reports
+2. Download Transaction Statement
