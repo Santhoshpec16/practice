@@ -1,0 +1,8 @@
+MINI BANKING APPLICATION
+
+Application Name: GitBank
+
+Features:
+- Account Registration
+- Balance Enquiry
+- Money Transfer
