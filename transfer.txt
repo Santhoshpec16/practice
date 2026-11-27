@@ -1,0 +1,9 @@
+BANKING APPLICATION - TRANSFER MODULE
+
+Features:
+1. Transfer Money
+2. View Transfer History
+3. Validate Recipient Account
+4. Generate Transaction Receipt
+
+Status: Initial Development

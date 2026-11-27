@@ -1,0 +1,13 @@
+MINI BANKING APPLICATION
+
+Application Name: GitBank
+
+Features:
+- Account Registration
+- Balance Enquiry
+- Money Transfer
+
+TRANSACTION MODULE
+
+1. Transaction Reports
+2. Download Transaction Statement

@@ -1,0 +1,9 @@
+BANKING APPLICATION - ACCOUNT MODULE
+
+Features:
+1. Create Account
+2. View Account Details
+3. Update Account Details
+4. Close Account
+
+Status: Initial Development
